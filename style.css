@@ -9,3 +9,26 @@
     background-color: #e0ebf6;
     border: 1px solid #e2e8f0;
 }
+
+
+
+.kort-rad {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+
+.kort {
+    flex: 1 1 200px;
+    padding: 1rem;
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+}
+
+
+@media (max-width: 600px) {
+    .tabla {
+        grid-template-columns: 1fr;
+    }
+}
