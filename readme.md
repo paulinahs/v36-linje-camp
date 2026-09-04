@@ -6,4 +6,4 @@ Destinationskorten ligger i `.kort-rad` där jag använder `flex`. Med `gap` och
 
 ## Ägarskap
 
-Jag förstår koden jag har skrivit och kan förklara hur den fungerar. AI har hjälpt mig med idéer och förklaringar, men jag har själv gjort arbetet och kan felsöka och ändra koden vid behov.
+Jag förstår koden jag har skrivit och kan förklara hur den fungerar. 
